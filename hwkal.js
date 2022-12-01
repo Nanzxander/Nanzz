@@ -26,16 +26,16 @@ global.ig = 'https://www.instagram.com/nanzzxyz1' // ubah aja
 global.email = 'kentud127@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = '☆𝙶𝚎𝚖𝚊 𝙱𝚘𝚝𝚣☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = '☆𝙶𝚎𝚖𝚊 𝙱𝚘𝚝𝚣☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.footer = '☆𝙶𝚎𝚖𝚊 𝙱𝚘𝚝𝚣☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '☆𝚃𝚊𝚔𝚒 𝚂𝚕𝚒𝚋𝚊𝚠☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.botname = '☆𝚃𝚊𝚔𝚒 𝚂𝚕𝚒𝚋𝚊𝚠☆' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.footer = '☆𝚃𝚊𝚔𝚒 𝚂𝚕𝚒𝚋𝚊𝚠☆' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
 // Other
-global.owner = ['6281224642311'] // ubah aja pake nomor lu
-global.premium = ['6281224642311'] // ubah aja pake nomor lu
-global.packname = '☆𝙶𝚎𝚖𝚊 𝙱𝚘𝚝𝚣☆' // ubah aja
-global.ownerr = ['☆𝙶𝚎𝚖𝚊 𝙱𝚘𝚝𝚣☆'] // ubaha aja
-global.author = '☆𝙶𝚎𝚖𝚊 𝙱𝚘𝚝𝚣☆' //ubah aja
+global.owner = ['6289643559747'] // ubah aja pake nomor lu
+global.premium = ['6289643559747'] // ubah aja pake nomor lu
+global.packname = '☆𝚃𝚊𝚔𝚒 𝚂𝚕𝚒𝚋𝚊𝚠☆' // ubah aja
+global.ownerr = ['☆𝚃𝚊𝚔𝚒 𝚂𝚕𝚒𝚋𝚊𝚠☆'] // ubaha aja
+global.author = '☆𝚃𝚊𝚔𝚒 𝚂𝚕𝚒𝚋𝚊𝚠☆' //ubah aja
 global.sessionName = './sessionye/haikal' //Gausaj Di Ubah
 global.prefa = ['','!','.',',','🐤','🗿'] // Gausah Mendingan 
 global.sp = '⭔' // Gausah Juga
